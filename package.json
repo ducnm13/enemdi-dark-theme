@@ -1,0 +1,21 @@
+{
+    "name": "enemdi-dark-theme",
+    "displayName": "Enemdi Dark Theme",
+    "description": "Enemdi Dark Color Theme For Persional VSCode",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Enemdi Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Enemdi Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
