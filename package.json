@@ -2,7 +2,7 @@
     "name": "enemdi-dark-theme",
     "displayName": "Enemdi Dark Theme",
     "description": "Enemdi Dark Color Theme For Persional VSCode",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "EnemdiDev",
     "icon": "logo.png",
     "repository": {
@@ -21,7 +21,6 @@
         "vs code theme",
         "beautiful theme"
     ],
-
     "contributes": {
         "themes": [
             {
