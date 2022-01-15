@@ -4,7 +4,7 @@
 [![Rating](https://vsmarketplacebadge.apphb.com/version/enemdidev.enemdi-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=EnemdiDev.enemdi-dark-theme)
 [![Downloads](https://vsmarketplacebadge.apphb.com/version/enemdidev.enemdi-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=EnemdiDev.enemdi-dark-theme)
 
-![Preview](https://raw.githubusercontent.com/ducnm13/enemdi-dark-theme/master/preview.png)
+![Preview](./preview.png)
 
 ## Installation
 
@@ -12,3 +12,7 @@
 2. Search for **Enemdi Dark Theme**
 3. Click **Install** to install it.
 4. Click **Reload** to reload the editor.
+
+## License
+
+[MIT License](./LICENSE)
